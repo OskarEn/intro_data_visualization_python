@@ -7,3 +7,5 @@ Some things that I visualised:
 Using imported data to make graphs
 
 ![image](https://github.com/OskarEn/intro_data_visualization_python/blob/master/hello-world/afghanistan-economic-data.png)
+![image](https://github.com/OskarEn/intro_data_visualization_python/blob/master/histograms/life-expectancy-dist-europe-americas-1997.png)
+![image](https://github.com/OskarEn/intro_data_visualization_python/blob/master/line-charts/relative-gdp-growth-china-us.png)
